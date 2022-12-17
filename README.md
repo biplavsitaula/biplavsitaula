@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biplavsitaula
-- 👀 I’m interested in writing and learning
-- 🌱 I’m currently learning engineering
+- 👀 <script>{frontEndPerson: here;}</script>
+- 🌱 
 - 📫 How to reach me ? biplav0007@gmail.com or @thebiplav on insta
 
 <!---
