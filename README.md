@@ -17,7 +17,7 @@ I'm a passionate and creative **Frontend Developer**. I love building interactiv
 ## 🛠️ Technologies & Tools
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Libraries/Frameworks**: React, Bootstrap, MaterialUI, Tailwind CSS
+- **Libraries/Frameworks**: React, Bootstrap, MaterialUI, Tailwind CSS, Redux
 - **Tools**: Git, GitHub, VS Code, npm, yarn
 - **APIs**: REST
 - **Interests**: Firebase, Next.js, Sass, Node.js
